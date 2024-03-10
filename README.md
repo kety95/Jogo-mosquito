@@ -1,17 +1,17 @@
-# Hello, welcome to my portfolio project.
+# Olá, bem vindo ao meu projeto de portifólio.
 
-![image](images/page.png)
+![image](imagens/pagina.png)
 
-[Find the published project here](https://fouxica.vercel.app/)
+[Encontre o projeto publicado aqui](https://jogo-mosquito.vercel.app/index.html)
 
-## Tools used:
+## Ferramentas utilizadas:
 
 * HTML
 
 * CSS
 
-* Flex-box
+* JavaScript
 
-## Made by:
+## Feito por:
 
 ### Ketlyn
